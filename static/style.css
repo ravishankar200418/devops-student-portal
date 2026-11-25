@@ -1,0 +1,39 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f4f8;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+h1 {
+    color: #173b68;
+}
+
+p {
+    color: #555;
+    font-size: 17px;
+}
+
+.card {
+    background: white;
+    padding: 30px;
+    margin: 30px auto;
+    max-width: 450px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+button {
+    background: #1769aa;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 6px;
+    cursor: pointer;
+}
